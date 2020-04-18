@@ -1,0 +1,59 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18F\Programs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19F\Programs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\chris\OneDrive - University of Louisville\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\chris\OneDrive - University of Louisville\999 - Old Semesters\9 - CIS 200\Program1A\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
